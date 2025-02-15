@@ -1,0 +1,64 @@
+#about {
+  margin-top: -90px;
+}
+
+.about_container {
+  margin-top: 90px;
+  background-color: #214f30;
+  padding: 5rem 12rem 7rem;
+}
+
+.about_title h2 {
+  font-size: 2.4rem;
+  color: #fff;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 2rem 0 4rem;
+  text-align: center;
+}
+
+.about-content__skillset span {
+  font-size: 1.2rem;
+  color: #fff;
+  display: block;
+  text-align: center;
+}
+
+.about-content__cta {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.aboutBtn {
+  background-color: #3db62d;
+  text-decoration: none;
+  color: #fff;
+  padding: 1rem 2rem;
+  font-size: 1.4rem;
+  border-radius: 0.3rem;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.aboutBtn:hover {
+  background-color: transparent;
+  outline: 2px solid #fff;
+}
+
+/* 
+  Media Queries
+*/
+
+@media screen and (max-width: 900px) {
+  .about_container {
+    padding: 0 6rem 3rem;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .about_container {
+    padding: 2rem 1rem 3rem;
+  }
+}
+

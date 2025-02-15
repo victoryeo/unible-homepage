@@ -1,0 +1,118 @@
+#home {
+  margin-top: -90px;
+}
+
+.bc__bg-image {
+  margin-top: 90px;
+  background-color: #3db62d;
+  padding: 1%;
+}
+
+.htwebpage__header-welcometext {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #214f30;
+  color: #fff;
+  width: 50%;
+  padding: 4rem 3rem 2rem;
+  position: relatve;
+  bottom: 2rem;
+  left: 5rem;
+}
+
+.htwebpage__header-welcometext h4 {
+  font-family: var(--font-family);
+  font-size: 1.8rem;
+  margin: 0;
+  margin-bottom: 2rem;
+}
+
+.htwebpage__header-welcometext span.header-desc {
+  font-family: var(--font-family);
+  font-size: 1rem;
+  line-height: 1.6rem;
+}
+
+.header-btn {
+  background-color: #3db62d;
+  padding: 0.7rem;
+  font-size: 1.4rem;
+  border-radius: 10px;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 2rem;
+  display: block;
+  width: 40%;
+  text-align: center;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.header-btn:hover {
+  background-color: transparent;
+  outline: 2px solid #fff;
+}
+
+/*
+  Media Queries
+*/
+@media screen and (max-width: 900px) {
+  .bc__bg-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    box-sizing: border-box;
+  }
+
+  .htwebpage__header-welcometext {
+    background-color: #214f30;
+    padding: 2.5rem 4rem;
+    color: #fff;
+    width: 80%;
+    position: static;
+    margin: 0;
+    border-radius: 10px;
+  }
+
+  .htwebpage__header-welcometext h4 {
+    font-size: 1.6rem;
+    line-height: 2rem;
+    text-align: center;
+  }
+
+  .htwebpage__header-welcometext span.header-desc {
+    margin: 1rem 0;
+    line-height: 1.5rem;
+    text-align: center;
+    display: block;
+  }
+
+  .header-btn {
+    font-size: 1.2rem;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .htwebpage__header-welcometext {
+    padding: 2rem;
+    width: 90%;
+  }
+
+  .htwebpage__header-welcometext span.header-desc {
+    font-size: 1rem;
+  }
+
+  .header-btn {
+    font-size: 1rem;
+  }
+}
+
+.header_catalog{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
