@@ -88,7 +88,7 @@ export const Details = () => {
 
         <div className="detail_title">
           <h3>SBC token</h3>
-          <h4>Unible's companion token</h4>
+          <h4>Unible companion token</h4>
         </div>
         <div className="details_catalog">
           <br />
