@@ -78,7 +78,7 @@ export const Details = () => {
           <br />
           <div className="details-catalog_big-container">
             <ul>
-            <li>Capital efficiency: Active reserve management</li>
+            <li>Capital efficiency: Reserve utilization for yield</li>
             <li>Gas free transaction: User-centric yield</li>
             <li>Cross-chain transfer: Powered by LayerZero</li>
             <li>Effortless asset pairing: With any assets</li>
