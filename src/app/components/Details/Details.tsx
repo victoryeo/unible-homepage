@@ -15,9 +15,9 @@ export const Details = () => {
 
           <div className="details-catalog_big-container">
             <ul>
-            <li>Limited cross-chain interoperability</li>
-            <li>Insufficient yield generation for ecosystem sustainability</li>
-            <li>Unavoidable and fluctuating transaction fees</li>
+            <li>Capital inefficiency</li>
+            <li>Fluctuating and unpredictable transaction fees</li>
+            <li>Lack of clarity on revenue generation and usage</li>
             </ul>
             <br/>
           <Image src="/stablecoin-issues.png" 
