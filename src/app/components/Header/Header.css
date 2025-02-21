@@ -4,7 +4,7 @@
 
 .bc__bg-image {
   margin-top: 90px;
-  background-color: #416ae3;
+  background-color: #619bf9;
   padding: 1%;
 }
 
@@ -12,7 +12,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #214f30;
+  background-color: #1f4494;
   color: #fff;
   width: 50%;
   padding: 4rem 3rem 2rem;
@@ -35,7 +35,7 @@
 }
 
 .header-btn {
-  background-color: #416ae3;
+  background-color: #619bf9;
   padding: 0.7rem;
   font-size: 1.4rem;
   border-radius: 10px;

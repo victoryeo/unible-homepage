@@ -10,7 +10,7 @@
   align-items: center;
   padding: 0 12rem;
   height: 50vh;
-  background-color: #416ae3;
+  background-color: #619bf9;
 }
 
 .contact-heading h1 {
@@ -36,7 +36,7 @@
 .contact-btn:hover a {
   background-color: transparent;
   outline: 2px solid #1f4494;
-  color: #214f30;
+  color: #1f4494;
 }
 
 /* 

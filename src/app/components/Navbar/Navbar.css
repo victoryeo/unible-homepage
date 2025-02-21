@@ -23,13 +23,13 @@ body {
 }
 
 .nav-logo, .nav-logo span {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: bold;
   font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .nav-logo span {
-  color: #416ae3;
+  color: #619bf9;
   text-transform: uppercase;
 }
 
@@ -75,7 +75,7 @@ body {
 }
 
 .nav-links li:hover {
-  color: #416ae3;
+  color: #619bf9;
 }
 
 .nav-links li a {
