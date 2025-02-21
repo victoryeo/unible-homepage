@@ -29,12 +29,12 @@ body {
 }
 
 .nav-logo span {
-  color: #3db62d;
+  color: #416ae3;
   text-transform: uppercase;
 }
 
 .nav {
-  background-color: #214f30;
+  background-color: #1f4494;
   height: 90px;
   color: white;
   display: flex;
@@ -75,7 +75,7 @@ body {
 }
 
 .nav-links li:hover {
-  color: #3db62d;
+  color: #416ae3;
 }
 
 .nav-links li a {

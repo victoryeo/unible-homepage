@@ -4,7 +4,7 @@
 
 .bc__bg-image {
   margin-top: 90px;
-  background-color: #3db62d;
+  background-color: #416ae3;
   padding: 1%;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .header-btn {
-  background-color: #3db62d;
+  background-color: #416ae3;
   padding: 0.7rem;
   font-size: 1.4rem;
   border-radius: 10px;
@@ -67,7 +67,7 @@
   }
 
   .htwebpage__header-welcometext {
-    background-color: #214f30;
+    background-color: #1f4494;
     padding: 2.5rem 4rem;
     color: #fff;
     width: 80%;
