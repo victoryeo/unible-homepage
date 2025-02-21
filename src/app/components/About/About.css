@@ -4,13 +4,13 @@
 
 .about_container {
   margin-top: 90px;
-  background-color: #1f4494;
+  background-color: #fff;
   padding: 5rem 12rem 7rem;
 }
 
 .about_title h2 {
   font-size: 2.4rem;
-  color: #fff;
+  color: #1f4494;
   letter-spacing: 1px;
   margin: 0;
   padding: 2rem 0 4rem;
@@ -19,7 +19,7 @@
 
 .about-content__skillset span {
   font-size: 1.2rem;
-  color: #fff;
+  color: #1f4494;
   display: block;
   text-align: center;
 }
@@ -31,7 +31,7 @@
 }
 
 .aboutBtn {
-  background-color: #619bf9;
+  background-color: #1f4494;
   text-decoration: none;
   color: #fff;
   padding: 1rem 2rem;
@@ -43,7 +43,8 @@
 
 .aboutBtn:hover {
   background-color: transparent;
-  outline: 2px solid #fff;
+  outline: 2px solid #1f4494;
+  color: #1f4494
 }
 
 /* 

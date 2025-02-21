@@ -14,8 +14,8 @@ export const Homepage = () => {
       <Header/>
       <Details/>
       <Team/>
-      <About/>
       <Contact/>
+      <About/>
     </div>
   );
 };

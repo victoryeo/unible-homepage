@@ -8,7 +8,7 @@ export const About = () => {
       <div className="about_container">
         <div className="about_title">
           <h2>
-            Company Profile
+            About Us
           </h2>
         </div>
         <div className="about_content">

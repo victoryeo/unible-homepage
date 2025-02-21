@@ -31,15 +31,15 @@ export const Navbar = (props: any) => {
               </Link>
             </li>            
             <li>
-              <Link href="#about">
-                About
-              </Link>
-            </li>
-            <li>
               <Link href="#contact">
                 Contact Us
               </Link>
             </li>
+            <li>
+              <Link href="#about">
+                About
+              </Link>
+            </li>            
           </ul>
         </div>
       </nav>

@@ -10,7 +10,7 @@
   align-items: center;
   padding: 0 12rem;
   height: 50vh;
-  background-color: #619bf9;
+  background-color: #1f4494;
 }
 
 .contact-heading h1 {
@@ -24,7 +24,7 @@
 
 .contact-btn a {
   text-decoration: none;
-  background-color: #1f4494;
+  background-color: #619bf9;
   color: #fff;
   padding: 1.6rem 2rem;
   font-size: 1.4rem;
@@ -35,8 +35,7 @@
 
 .contact-btn:hover a {
   background-color: transparent;
-  outline: 2px solid #1f4494;
-  color: #1f4494;
+  outline: 2px solid #fff;
 }
 
 /* 
