@@ -18,7 +18,7 @@ export const Header = () => {
               Revolutionize global finance with a cutting-edge gas free stablecoin.
             </span>
             <br />
-            <Link href="#contact" className="header-btn">Get Unible</Link>
+            <Link href="http://34.87.34.143/" className="header-btn">Get Unible</Link>
           </div>
           <Image src="/hero.png" 
             alt="icon" 
