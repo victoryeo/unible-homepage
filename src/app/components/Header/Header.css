@@ -41,7 +41,22 @@
   border-radius: 10px;
   color: #fff;
   text-decoration: none;
-  margin-top: 2rem;
+  margin-top: 1rem;
+  display: block;
+  width: 40%;
+  text-align: center;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.header-btn_banner {
+  background-color: #416ae3;
+  padding: 0.0rem;
+  font-size: 1.4rem;
+  border-radius: 1px;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 0rem;
   display: block;
   width: 40%;
   text-align: center;

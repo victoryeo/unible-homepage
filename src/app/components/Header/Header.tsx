@@ -20,12 +20,14 @@ export const Header = () => {
             <br />
             <Link href="http://34.87.34.143/" className="header-btn">Get Unible</Link>
           </div>
-          <Image src="/hero.png" 
-            alt="icon" 
-            className="logo-icon" 
-            width={300}
-            height={300}            
-            />
+          <Link href="https://unible.gitbook.io/unible" className="header-btn_banner">
+            <Image src="/unible_banner.avif" 
+              alt="icon" 
+              className="logo-icon" 
+              width={406}
+              height={200}            
+              />
+          </Link>
         </div>
       </div>
     </>

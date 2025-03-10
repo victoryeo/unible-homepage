@@ -8,7 +8,7 @@ export const Navbar = (props: any) => {
     <>
       <nav className="nav">
         <div className="nav_logo-container">
-          <Image src="/unible-logo2.png" 
+          <Image src="/unible-logo3.avif" 
             alt="icon" 
             className="logo-icon" 
             width={30}
